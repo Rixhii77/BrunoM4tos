@@ -20,3 +20,5 @@
 </div>
 
  ##
+
+![Snake animation](https://github.com/BrunoM4tos/BrunoM4tos/blob/output/github-contribution-grid-snake.svg)                                                                                                                                                     !
