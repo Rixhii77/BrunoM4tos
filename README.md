@@ -20,9 +20,3 @@
 </div>
 
  ##
-
-<div align="center">
-
-  ![Snake animation](https://github.com/brunom4tos/brunom4tos/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
